@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806988899495",
+    "firebase_url": "https://favouritevehiclelist.firebaseio.com",
+    "project_id": "favouritevehiclelist",
+    "storage_bucket": "favouritevehiclelist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806988899495:android:73e15e69d7d6105e0de782",
+        "android_client_info": {
+          "package_name": "com.example.favouritevehiclelistwithdatabasebackups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806988899495-5inkj2ohrdaa8j2bl2th88kejcljq5tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.favouritevehiclelistwithdatabasebackups",
+            "certificate_hash": "d8bc626299912a056f4f694cac7bffd0ffa419e9"
+          }
+        },
+        {
+          "client_id": "806988899495-e00uvljuqa5et30div7el4i6gt77sc72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ6nxsD-VD6g7Sqp9a3UFcdg10rTYEHvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806988899495-e00uvljuqa5et30div7el4i6gt77sc72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
